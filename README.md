@@ -27,7 +27,7 @@ Estimation questions will often involve some aspects of Google products, and one
 there is advertising. Pay special attention to the questions related to advertising in the case study
 chapter.
 
-### Preperation
+### Behavioural
 Products: Products or features that the company creates? How do the
 products fit with each other?  
 Competitors: Who are the competitors? How does the company differentiate itself from them?  
@@ -40,3 +40,42 @@ which ones they’re struggling with. How many users does it have? What is its c
 What is its growth rate?
 News and Rumors: Have there been any interesting news reports about the company? What is
 the company rumored to do? Don’t just read this stuff. Formulate an opinion on it.
+
+What do you find most challenging about being a PM here?  
+Where do you see the company going in five years?  
+What would make someone the ideal PM candidate for you?  
+
+“I’m often not very detail oriented. While this has some benefits, particularly in an
+entrepreneurial environment by helping me move faster, it also means I’ve made some
+embarrassing mistakes in the past. I’ve developed a good sense though of the types of situations
+where I’m likely to make mistakes, and I double or triple check my work in those cases.  
+
+### Estimation, Ferma Questions
+1. Scope the problems, ask the assmuptions.
+2. Break down and Structurize. Objects -> components, estimate small parts then sum together.
+3. Estimate using facts you know, give boundaries with each method of estimation and compare them!
+4. Summary: overestimate, underestimate. Missing factors if more time provided, what assumptions could factor significantly.
+
+Be neutral in over/underestimate to reduce consistent bias. WLLN gives the LC of estimates yields smaller variance than one guess.
+
+We need to calculate the road density of a square mile. Let’s imagine a square mile of the US, and, on average, across cities and rural environments, we can guess that there might be around 2 miles of road per square mile. Why is this?
+
+It’s reasonable to imagine that there’s a road crossing across both the length and height of the square mile. Of course, in rural environments there may be no roads at all, but in cities and even small towns, there will be much more road. On average, this could be a fair estimate.
+
+
+### Product
+#### Product Prep list
+Online:
+Offline:
+Purchased recently:
+Favourite Product:
+Favourite Website:
+Favourite Design: 
+Google: Google Search (Instant)
+
+#### Metric
+User/Traffic: count and method of gaining users  
+Conversion: Method of making money  
+Engagnement: Frequency of use  
+Referral/Retention: how often refer, 
+Revenue/Cost: how to generate revenue/how much, development/maintaineance cost
