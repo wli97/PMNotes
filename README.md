@@ -51,9 +51,9 @@ embarrassing mistakes in the past. I’ve developed a good sense though of the t
 where I’m likely to make mistakes, and I double or triple check my work in those cases.  
 
 ### Estimation, Ferma Questions
-1. Scope the problems, ask the assmuptions.
-2. Break down and Structurize. Objects -> components, estimate small parts then sum together.
-3. Estimate using facts you know, give boundaries with each method of estimation and compare them!
+1. Scope the problems, ask the assmuptions, define problem.
+2. Break down and Structurize, list alternative approaches. Objects -> components, estimate small parts then sum together.
+3. Estimate using facts you know, give boundaries with each method of estimation and compare them! List assumptions.
 4. Summary: overestimate, underestimate. Missing factors if more time provided, what assumptions could factor significantly.
 
 Be neutral in over/underestimate to reduce consistent bias. WLLN gives the LC of estimates yields smaller variance than one guess.
@@ -79,3 +79,13 @@ Conversion: Method of making money
 Engagnement: Frequency of use  
 Referral/Retention: how often refer, 
 Revenue/Cost: how to generate revenue/how much, development/maintaineance cost
+
+#### Product Analysis
+1. What does it solve, how it helps users. Who's targetted. Why it is good/bad for clients.
+2. Who are the competitors, strength/weakness.
+
+#### Design Steps
+1. Ask specification on users, environment, type of product physical digital.
+2. Provide structure, identify users (who might use in some context?), competitors, gap to improve, ultimate goal of product.
+3. Adding edge case, further potential use case.
+4. Identify which direction to build for, what is the target use case and people.
