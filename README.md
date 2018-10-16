@@ -30,6 +30,7 @@ Favourite Product:
 Favourite Website:
 Favourite Design: 
 Google: Google Search (Instant)
+Google Maps: improve 3D altitude for hikers. Provide a self trip advisor.
 
 #### Metric
 User/Traffic: count and method of gaining users  
